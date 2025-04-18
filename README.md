@@ -1,8 +1,6 @@
 # Benvenuto/a nel mio Github
 
-## 🧠 Competenze Tecniche
-
-🐍 Python Developer for ML & Data Analysis
+## 🐍 Python Developer for ML & Data Analysis
 
 🟢 Programmazione OOP – Esperienza nello sviluppo orientato agli oggetti per creare codice modulare, riutilizzabile e scalabile.
 
@@ -16,8 +14,7 @@
 
 🟢 Database Relazionali & SQL – Collegamento a MySQL tramite mysql-connector-python per l’interazione con database relazionali. Esperienza pratica nell’esecuzione di query SQL (SELECT, INSERT, UPDATE, DELETE), gestione di tabelle e operazioni CRUD. Competenze nella scrittura di query complesse per manipolazione dati, filtraggio, ordinamento e normalizzazione.
 
-
-🛡️ Cybersecurity
+## 🛡️ Cybersecurity
 
 🔵 Offensive Security – Conoscenza di tecniche di penetration testing e utilizzo del framework MITRE ATT&CK per l’analisi delle minacce e simulazioni di attacchi.
 
