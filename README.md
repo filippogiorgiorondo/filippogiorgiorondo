@@ -23,13 +23,3 @@
 🔵 Malware & Vulnerability Management – Competenze in analisi, mitigazione e prevenzione malware, vulnerability assessment e gestione delle vulnerabilità.
 
 🔵 Networking & Scripting – Solide basi di networking e scripting, utilizzati per l’automazione di task legati alla sicurezza informatica.
-
-
-<img align="right" height="150" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif"  />
-
-###
-
-<div align="left">
-</div>
-
-###
