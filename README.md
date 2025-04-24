@@ -1,5 +1,5 @@
-# Benvenuto/a nel mio Github
-
+# 👋 About me 
+ descrizione mia
 # 🐍 Python Developer for ML & Data Analysis =====
 
 ## Competenze
