@@ -1,6 +1,6 @@
 # Benvenuto/a nel mio Github
 
-# 🐍 Python Developer for ML & Data Analysis
+# 🐍 Python Developer for ML & Data Analysis =====
 
 ## Competenze
 🟢 Programmazione: OOP – File & Error Handling
@@ -13,7 +13,7 @@
 
 ## Progetti a cui ho lavorato
 
-# 🛡️ Cybersecurity
+# 🛡️ Cybersecurity =============
 
 ## Competenze
 
