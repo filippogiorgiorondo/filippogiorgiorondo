@@ -1,5 +1,9 @@
-# 👋 About me 
- descrizione mia
+# 👋 Intro
+## Su di me
+
+## Di cosa mi occupo
+
+
 # 🐍 Python Developer for ML & Data Analysis =====
 
 ## Competenze
