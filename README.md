@@ -2,17 +2,13 @@
 
 ## 🐍 Python Developer for ML & Data Analysis
 
-🟢 Programmazione OOP – Esperienza nello sviluppo orientato agli oggetti per creare codice modulare, riutilizzabile e scalabile.
+🟢 Programmazione: OOP – File & Error Handling
 
-🟢 File Handling – Lettura/scrittura file (txt, CSV, ecc.) con implementazione di controlli e validazioni per la gestione sicura dei dati.
-
-🟢 Gestione degli Errori – Uso di tecniche di error handling per il controllo dei flussi anomali e la prevenzione dei crash.
-
-🟢 Libreria NumPy – Elaborazione dati e operazioni vettoriali con NumPy per applicazioni di analisi e calcolo numerico.
+🟢 Librerie: Numpy - Pandas - Matplotlib - Seaborn - Mysql-connector - Requests
 
 🟢 API REST & JSON – Utilizzo della libreria requests per interrogare API esterne, gestione e parsing di risposte in formato JSON per l’integrazione e la manipolazione dei dati.
 
-🟢 Database Relazionali & SQL – Collegamento a MySQL tramite mysql-connector-python per l’interazione con database relazionali. Esperienza pratica nell’esecuzione di query SQL (SELECT, INSERT, UPDATE, DELETE), gestione di tabelle e operazioni CRUD. Competenze nella scrittura di query complesse per manipolazione dati, filtraggio, ordinamento e normalizzazione.
+🟢 Database Relazionali & SQL – Collegamento a MySQL, scrittura di query complesse per operazioni CRUD e manipolazione dati.
 
 ## 🛡️ Cybersecurity
 
