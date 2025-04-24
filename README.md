@@ -13,7 +13,7 @@
 
 ## Progetti a cui ho lavorato
 
-# 🛡️ Cybersecurity ===============================
+# 🛡️ Cybersecurity ===========================
 
 ## Competenze
 
