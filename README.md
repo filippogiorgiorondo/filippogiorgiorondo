@@ -6,7 +6,7 @@
 
 # 🐍 Python Developer for ML & Data Analysis
 
-## 🟢 Competenze
+### 🟢 Competenze
 - Programmazione: OOP – File & Error Handling
 
 - Librerie: Numpy - Pandas - Matplotlib - Seaborn - Mysql-connector - Requests
@@ -15,11 +15,11 @@
 
 -  Database Relazionali & SQL – Collegamento a MySQL, scrittura di query complesse per operazioni CRUD e manipolazione dati.
 
-## 🟢 Progetti a cui ho lavorato
+### 🟢 Progetti a cui ho lavorato
 
 # 🛡️ Cybersecurity
 
-## 🔵  Competenze
+### 🔵  Competenze
 
 - Offensive Security – Conoscenza di tecniche di penetration testing e utilizzo del framework MITRE ATT&CK per l’analisi delle minacce e simulazioni di attacchi.
 
@@ -29,7 +29,7 @@
 
 -  Networking & Scripting – Solide basi di networking e scripting, utilizzati per l’automazione di task legati alla sicurezza informatica.
 
-## 🔵 Progetti a cui ho lavorato
+### 🔵 Progetti a cui ho lavorato
 
 - [QuadroIllegittimo](https://github.com/filippogiorgiorondo/QuadroIllegittimo) & [CatturaDiWireshark](https://github.com/filippogiorgiorondo/CatturaDiWireshark):
  Esperienza in: ricerca, analisi e correlazione delle informazioni; Ricostruire gli eventi;
