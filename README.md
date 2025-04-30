@@ -1,7 +1,7 @@
 # 👋 Intro
 ### Su di me
-Data Scientist 📊 | Machine Learning Engineer 🤖 | Cloud ☁️ | Cybersecurity Analyst 🔐 
-### Di cosa mi occupo
+Python Developer 💻 | Machine Learning Engineer 🤖 | Cloud ☁️ | Cybersecurity Analyst 🔐 
+
 
 # 🐍 Python Developer for ML & Data Analysis
 
