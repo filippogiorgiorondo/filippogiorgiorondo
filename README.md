@@ -2,15 +2,15 @@
 
 Python Developer 💻 | Machine Learning Engineer 🤖 | Cloud ☁️ | Cybersecurity Analyst 🔐 
 
-🎓 I'm a 20-year-old student currently pursuing a degree in Computer Engineering at *La Sapienza University of Rome*.  
 I'm passionate about technology and always eager to learn, experiment and build cool things 🚀
+I started coding out of curiosity during high school, and since then I've been hooked — especially by the idea of solving real-world problems through code and smart systems.
 
 ---
 
 ### 📚 Education & Training
-- 🎓 *B.Sc. in Computer Engineering*, Sapienza University of Rome (in progress)
-- 🐍 *Python Developer for Machine Learning* – Course of 240 h
-- 🛡️ *Cybersecurity Specialist* – Course of 450 h
+- 🎓 B.Sc. in Computer Engineering, Sapienza University of Rome (in progress)
+- 🐍 Python Developer for Machine Learning – 240h training course (in progress - expected May 2024))
+- 🛡️ Cybersecurity Specialist – 450h training course (completed in Genuary 2024)
 
 ---
 
