@@ -9,7 +9,7 @@ I started coding out of curiosity during high school, and since then I've been h
 
 ### 📚 Education & Training
 - 🎓 B.Sc. in Computer Engineering, Sapienza University of Rome (in progress)
-- 🐍 Python Developer for Machine Learning – 240h training course (in progress - expected May 2024))
+- 🐍 Python Developer for Machine Learning & Data Analyst– 240h training course (in progress - expected May 2024))
 - 🛡️ Cybersecurity Specialist – 450h training course (completed in Genuary 2024)
 
 ---
