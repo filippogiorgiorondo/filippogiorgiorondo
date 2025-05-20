@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Filippo!
 
 Actually: System & Cloud Administrator Intern ☁️
+
 Other interests: Python Developer 💻 | Machine Learning Engineer 🤖 | Cybersecurity Analyst 🔐 
 
 I'm passionate about technology and always eager to learn, experiment and build cool things 🚀
