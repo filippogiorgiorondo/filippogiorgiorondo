@@ -24,8 +24,8 @@ In the field of machine learning, I use scikit-learn to build and evaluate predi
 ---
 
 ### 📫 Let's Connect!
-- 📧 Email: filippogiorgior@gmail.com
-
+-  Email: filippogiorgior@gmail.com
+- Linkedin: www.linkedin.com/in/filippo-giorgio-rondo
 ---
 
 > “Stay curious, keep building, and never stop learning.”
