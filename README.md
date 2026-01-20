@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Filippo!
 
-Actually: System & Cloud Administrator Intern ☁️
+Actually: System & Cloud Administrator Junior ☁️
 
 Other interests: Python Developer 💻 | Machine Learning Engineer 🤖 | Cybersecurity Analyst 🔐 
 
